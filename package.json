@@ -1,0 +1,24 @@
+{
+  "name": "angular-spa-hello-world",
+  "version": "1.0.0",
+  "description": "hello world sample using angular.js angular-route.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/SPA-Angular-Hello-World.git"
+  },
+  "keywords": [
+    "spa",
+    "angular",
+    "angular-route"
+  ],
+  "author": "Rafael Noguera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafanog/SPA-Angular-Hello-World/issues"
+  },
+  "homepage": "https://github.com/rafanog/SPA-Angular-Hello-World#readme"
+}
